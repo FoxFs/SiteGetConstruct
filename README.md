@@ -1,2 +1,2 @@
 # SiteGetConstruct
-meu primeiro site
+website created a base from HTML and CSS
